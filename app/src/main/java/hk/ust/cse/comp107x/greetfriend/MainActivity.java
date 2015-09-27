@@ -8,11 +8,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
-
-
-
 import java.util.Calendar;
-
+/*Created by Vishwajeet Srivastava on 21/9/15 */
 
 
 public class MainActivity extends Activity implements View.OnClickListener {
